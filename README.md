@@ -48,6 +48,9 @@ DeviceFileEvents
 - Data **obfuscation tactics** used to rename sensitive files.
 
 **Query Used:**
+
+------
+
 ```kql
 DeviceFileEvents
 | where SHA256 == "ec727a15bf51e027b9a1bbf097cfa9d57e46aa159bfa37f68dca5e3c5df5af3d"
@@ -56,7 +59,7 @@ DeviceFileEvents
 | union DeviceEvents
 | where SHA256 == "ec727a15bf51e027b9a1bbf097cfa9d57e46aa159bfa37f68dca5e3c5df5af3d"
 | order by Timestamp asc
-
+```
 ---
 
 ### 3. 🔒 **Steganography Detection**
