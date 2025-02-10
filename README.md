@@ -1,4 +1,5 @@
 # ⚠️ **Threat Hunt Report: Bryce Montgomery Investigation** ⚡️
+![DALL·E 2025-02-10 16 48 34 - A high-tech cybersecurity threat report theme  A digital forensic investigation scene with multiple computer screens displaying Kusto Query Language (](https://github.com/user-attachments/assets/1d6c5eb0-f537-461c-88eb-38d6c9cb46f9)
 
 ---
 
